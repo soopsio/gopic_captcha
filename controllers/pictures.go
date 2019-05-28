@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"server/mask"
+	"github.com/soopsio/gopic_captcha/mask"
 
 	"github.com/astaxie/beego"
 )

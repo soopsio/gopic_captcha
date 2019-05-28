@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"server/controllers"
+	"github.com/soopsio/gopic_captcha/controllers"
 
 	"github.com/astaxie/beego"
 )

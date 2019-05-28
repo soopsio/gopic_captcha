@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "server/routers"
+	_ "github.com/soopsio/gopic_captcha/routers"
 	"github.com/astaxie/beego"
 )
 

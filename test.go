@@ -1,7 +1,7 @@
 package main
 
 import (
-	"server/mask"
+	"github.com/soopsio/gopic_captcha/mask"
 	"fmt"
 )
 
