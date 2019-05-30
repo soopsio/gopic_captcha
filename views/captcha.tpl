@@ -373,7 +373,7 @@
 <input type="submit" value="提交" id="submit" class="btn">
 <div id='ddd'></div>
 <div id='part-template'></div>
-<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
 
 <script>
 
